@@ -275,7 +275,7 @@ AI-driven finance app with multi-currency support, offline-first architecture, a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2022 - To: 03 July 2026
+From: 04 December 2022 - To: 04 July 2026
 
 Total Time: 3,587 hrs 15 mins
 
