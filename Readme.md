@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/gelodgreat"><img src="https://github.com/gelodgreat/gelodgreat/blob/master/devcard.svg" width="400" alt="Angelo's Dev Card"/></a>
+<a href="https://app.daily.dev/theangeloumali"><img src="https://github.com/theangeloumali/theangeloumali/blob/master/devcard.svg" width="400" alt="Angelo's Dev Card"/></a>
 
 # Hey, I'm Angelo 👋
 
@@ -10,7 +10,7 @@
 
 [![Available for Work](https://img.shields.io/badge/Available_for_Work-brightgreen?style=flat-square)](mailto:angelo@zkidzdev.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-gelodgreat-181717?style=flat-square&logo=github)](https://github.com/gelodgreat)
+[![GitHub](https://img.shields.io/badge/GitHub-theangeloumali-181717?style=flat-square&logo=github)](https://github.com/theangeloumali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-christianangelo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/christianangelo)
 [![Email](https://img.shields.io/badge/Email-angelo@zkidzdev.com-EA4335?style=flat-square&logo=gmail)](mailto:angelo@zkidzdev.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-angelo.zkidzdev.com-0A7E73?style=flat-square&logo=vercel)](https://angelo.zkidzdev.com)
@@ -246,30 +246,30 @@ AI-driven finance app with multi-currency support, offline-first architecture, a
 ### ⚡ Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gelodgreat&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theangeloumali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelodgreat&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theangeloumali&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=gelodgreat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=theangeloumali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ### 💡 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelodgreat&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theangeloumali&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelodgreat&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelodgreat&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theangeloumali&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theangeloumali&theme=tokyonight" width="48%" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -300,8 +300,8 @@ Bash                 75 hrs 11 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gelodgreat&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
-<img src="https://img.shields.io/github/stars/gelodgreat?style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub Stars"/>
+<img src="https://komarev.com/ghpvc/?username=theangeloumali&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
+<img src="https://img.shields.io/github/stars/theangeloumali?style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub Stars"/>
 
 </div>
 
