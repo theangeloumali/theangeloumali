@@ -1,12 +1,12 @@
 # Hey, I'm Angelo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=0A7E73&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=CTO+%26+AI+Solutions+Architect+%7C+9%2B+Years;Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Apps+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="CTO and AI Solutions Architect. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=0A7E73&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=Principal+Software+Engineer+%26+AI+Solutions+Architect;Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Storefronts+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="Principal Software Engineer and AI Solutions Architect. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
 </div>
 
 <a href="https://app.daily.dev/theangeloumali"><img src="https://github.com/theangeloumali/theangeloumali/blob/master/devcard.svg" width="360" alt="Angelo's daily.dev card"/></a>
 
-**Chief Technology Officer at ZKidz Dev LLC.** I've been shipping production mobile and web software since 2017. These days most of that work runs through AI agents I direct like a dev team, with TDD and automated review enforced on every task.
+**Principal Software Engineer & AI Solutions Architect.** I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been shipping production mobile and web software since 2017. These days most of that work runs through AI agents I direct like a dev team, with TDD and automated review enforced on every task.
 
 
 Based in the Philippines, delivering across AU, NZ, US, CA, and PH.
@@ -30,12 +30,12 @@ Two separate things, and I think the distinction matters: AI systems I ship for 
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Kitna** (ClearSpent) | Conversational finance agent with 20+ tools. Voice transactions, spend analysis, and a proposal step where nothing moves until you approve it. Gemini AI.                                                                                   |
 | **My Business Coach**  | Real-time multilingual voice agent for a Singapore startup. A discovery agent runs structured intake, then hands off to specialized coaches using LLM chemistry scoring and deterministic switching across 7 languages. Pipecat and WebRTC. |
-| **Lead Nurture Agent** | Scores webinar leads in real time with Claude, alerts closers in Slack, and runs personalized follow-up on cold leads. RAG pipeline, Inngest for durable workflows, GoHighLevel CRM.                                                        |
+| **Lead Nurture Agent** | Scores webinar leads in real time with Claude, alerts closers in Slack, and runs personalized follow-up on cold leads. Inngest for durable workflows, GoHighLevel CRM.                                                        |
 | **IdeaFlare**          | Turns a voice note or a raw thought into summaries, feature breakdowns, execution plans, and risk assessments. Gemini structured outputs.                                                                                                   |
 | **Agency Partner Hub** | Generates client audit decks with Claude, rendered to PPTX, plus Stripe Connect commission payouts.                                                                                                                                         |
 | **AI Bot Marketplace** | SMS and voice automation bot templates across 376+ business niches.                                                                                                                                                                         |
 
-`Claude` `Gemini` `OpenAI` `Vercel AI SDK` `MCP` `Pipecat` `WebRTC` `Inngest` `pgvector` `RAG`
+`Claude` `Gemini` `OpenAI` `Vercel AI SDK` `MCP` `Pipecat` `WebRTC` `Inngest` `Zod structured output`
 
 ### How I build
 
@@ -46,7 +46,7 @@ I run an orchestration framework called SuperClaude on top of Claude Code. It ro
 - Custom skills for the workflows I repeat: TDD feature builds, agent-team dispatch, deep research, automated code review
 - Enforced gates on every task: format, lint, typecheck, tests, build, then a runtime smoke test before anything is called done
 
-The honest version of the payoff: roughly 3 to 5x faster on feature delivery. The gates are what make that number real instead of just faster output.
+I have not measured the speedup against a controlled baseline, so I am not going to put a multiplier on it. What I can say is that the gates run on every task rather than when there is time for them.
 
 ---
 
@@ -108,7 +108,7 @@ The honest version of the payoff: roughly 3 to 5x faster on feature delivery. Th
 
 ## 🛠️ What I specialize in
 
-**Agentic AI systems.** Multi-step reasoning with tool use, RAG pipelines over vector search, voice agents, and multi-provider setups across Claude, Gemini, and OpenAI. Durable workflows that survive crashes and retries.
+**Agentic AI systems.** Multi-step reasoning over a constrained tool surface with schema-validated output, real-time voice agents, and multi-provider setups across Claude, Gemini, and OpenAI. Durable workflows that survive crashes and retries.
 
 **Multi-tenant SaaS.** Row-level security, per-tenant subdomains, custom theming, data isolation. Built it for dental clinics, mortgage brokerages, and a franchise partner network.
 
@@ -124,12 +124,10 @@ The honest version of the payoff: roughly 3 to 5x faster on feature delivery. Th
 
 | Period         | Role                             | Company                   | Location      |
 | -------------- | -------------------------------- | ------------------------- | ------------- |
-| 2026 - Present | Chief Technology Officer         | **ZKidz Dev LLC**         | Melbourne, AU |
-| 2025 - 2026    | Founder & AI Solutions Architect | **ZKidz Dev LLC**         | Remote        |
-| 2020 - 2025    | Lead Software Engineer           | **ZKidz Dev LLC**         | Remote        |
+| 2020 - Present | CTO & Principal Software Engineer · AI Solutions Architect | **ZKidz Dev LLC** | Remote |
 | 2022 - 2024    | Senior Software Engineer         | **Blackpepper**           | Auckland, NZ  |
 | 2020 - 2022    | Senior Software Engineer         | **Adaca**                 | Sydney, AU    |
-| 2017 - 2020    | Software Developer → Full Stack  | **Trends & Technologies** | Makati, PH    |
+| 2017 - 2020    | Software Engineer & Lead Developer | **Trends & Technologies** | Makati, PH |
 
 A few things I'm proud of from those years:
 
@@ -138,7 +136,7 @@ A few things I'm proud of from those years:
 - **Blackpepper.** Shipped and maintained 6 React Native e-commerce apps for Glassons, RedRat, and Hallensteins. CI/CD work made deployments 60% faster.
 - **Adaca.** Delivered 7 products across mobile and web, and cut bundle size 35% with code-splitting and tree-shaking.
 - **Urban.com.au.** Two mobile apps and a web platform. Image caching work reduced load times 40%.
-- **Trends & Technologies.** Led a cross-functional team of five and shipped 4 to 10 projects a cycle.
+- **Trends & Technologies.** Led a cross-functional team of five across parallel client engagements, delivering 7+ production projects.
 
 ---
 
@@ -161,7 +159,7 @@ Agent-first finance app. Tell Kitna what happened, it proposes the action, nothi
 
 **🎙️ My Business Coach**
 
-Voice AI coaching platform for a Singapore startup. Discovery agent hands off to specialized coaches across 7 languages. ~9 months, 2,000+ commits.
+Voice AI coaching platform for a Singapore startup. Brought in mid-flight to split WebRTC audio from application logic and make language switching deterministic across 7 languages.
 
 **Tech**: Flutter, FastAPI, Pipecat, WebRTC, Supabase
 
@@ -409,7 +407,7 @@ Text                 93 hrs 11 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 📬 Get in touch
 
-Open to CTO and AI architecture work, plus selective client builds through ZKidz Dev.
+Open to principal and staff engineering work, AI architecture, and selective client builds through ZKidz Dev — including fractional CTO engagements.
 
 - **Email**: [angelo@theangeloumali.com](mailto:angelo@theangeloumali.com)
 - **LinkedIn**: [linkedin.com/in/christianangelo](https://linkedin.com/in/christianangelo)
