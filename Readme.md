@@ -6,7 +6,7 @@
 
 <a href="https://app.daily.dev/theangeloumali"><img src="https://github.com/theangeloumali/theangeloumali/blob/master/devcard.svg" width="360" alt="Angelo's daily.dev card"/></a>
 
-**Principal Software Engineer & AI Solutions Architect.** I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been shipping production mobile and web software since 2017. These days most of that work runs through AI agents I direct like a dev team, with TDD and automated review enforced on every task.
+**Senior Software Engineer & AI Engineer.** I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been shipping production mobile and web software since 2017. These days most of that work runs through AI agents I direct like a dev team, with TDD and automated review enforced on every task.
 
 
 Based in the Philippines, delivering across AU, NZ, US, CA, and PH.
