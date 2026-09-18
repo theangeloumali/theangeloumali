@@ -1,7 +1,7 @@
 # Hey, I'm Angelo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=0A7E73&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=Principal+Software+Engineer+%26+AI+Solutions+Architect;Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Storefronts+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="Principal Software Engineer and AI Solutions Architect. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=4000&pause=1000&color=0A7E73&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=Senior+Software+Engineer+%26+AI+Engineer;Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Storefronts+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="Senior Software Engineer and AI Engineer. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
 </div>
 
 <a href="https://app.daily.dev/theangeloumali"><img src="https://github.com/theangeloumali/theangeloumali/blob/master/devcard.svg" width="360" alt="Angelo's daily.dev card"/></a>
