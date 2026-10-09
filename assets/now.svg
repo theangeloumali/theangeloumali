@@ -30,12 +30,12 @@
 
     <circle class="ping" cx="66" cy="50" r="6" fill="#d5b13a" />
     <circle cx="66" cy="50" r="6" fill="#d5b13a" />
-    <text class="mono" x="86" y="56" font-size="16" letter-spacing="2.6" fill="#d5b13a">NOW BUILDING</text>
+    <text class="mono" x="86" y="56" font-size="18" letter-spacing="2.2" fill="#d5b13a">NOW BUILDING</text>
 
     <text class="sans" x="56" y="112" font-size="46" font-weight="700" letter-spacing="-0.8" fill="#ece7de">PropApp</text>
     <text class="sans" x="252" y="110" font-size="21" fill="#8ea9c4">Off-market property marketplace · Australia</text>
 
-    <g class="sans" font-size="18" fill="#ece7de">
+    <g class="sans" font-size="19" fill="#ece7de">
       <rect class="chip" x="56" y="134" width="162" height="36" rx="18" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
       <text x="137" y="158" text-anchor="middle">Web platform</text>
       <rect class="chip c2" x="230" y="134" width="176" height="36" rx="18" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
@@ -43,7 +43,7 @@
       <rect class="chip c3" x="418" y="134" width="146" height="36" rx="18" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
       <text x="491" y="158" text-anchor="middle">AI features</text>
     </g>
-    <text class="mono" x="784" y="158" font-size="16" text-anchor="end" fill="#8ea9c4">propapp.com.au →</text>
+    <text class="mono" x="784" y="158" font-size="18" text-anchor="end" fill="#8ea9c4">propapp.com.au →</text>
   </g>
   <rect x="0.75" y="0.75" width="838.5" height="188.5" rx="15.25" fill="none" stroke="#8ea9c4" stroke-opacity="0.25" stroke-width="1.5" />
 </svg>

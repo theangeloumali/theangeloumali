@@ -33,33 +33,33 @@
 
     <rect x="186" y="127" width="138" height="68" rx="12" fill="#121a24" stroke="#8ea9c4" stroke-opacity="0.5" stroke-width="1.5" />
     <text class="sans" x="255" y="158" font-size="20" font-weight="600" text-anchor="middle" fill="#ece7de">Triage</text>
-    <text class="mono" x="255" y="180" font-size="13" text-anchor="middle" fill="#8ea9c4">size + risk</text>
+    <text class="mono" x="255" y="180" font-size="15" text-anchor="middle" fill="#8ea9c4">size + risk</text>
 
     <g class="chip" style="animation-delay: 0s">
       <rect x="388" y="30" width="150" height="38" rx="19" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.3" stroke-width="1.5" />
-      <text class="sans" x="463" y="55" font-size="17" text-anchor="middle" fill="#ece7de">Frontend</text>
+      <text class="sans" x="463" y="55" font-size="19" text-anchor="middle" fill="#ece7de">Frontend</text>
     </g>
     <g class="chip" style="animation-delay: 1s">
       <rect x="388" y="86" width="150" height="38" rx="19" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.3" stroke-width="1.5" />
-      <text class="sans" x="463" y="111" font-size="17" text-anchor="middle" fill="#ece7de">Backend</text>
+      <text class="sans" x="463" y="111" font-size="19" text-anchor="middle" fill="#ece7de">Backend</text>
     </g>
     <g class="chip" style="animation-delay: 2s">
       <rect x="388" y="142" width="150" height="38" rx="19" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.3" stroke-width="1.5" />
-      <text class="sans" x="463" y="167" font-size="17" text-anchor="middle" fill="#ece7de">QA</text>
+      <text class="sans" x="463" y="167" font-size="19" text-anchor="middle" fill="#ece7de">QA</text>
     </g>
     <g class="chip" style="animation-delay: 3s">
       <rect x="388" y="198" width="150" height="38" rx="19" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.3" stroke-width="1.5" />
-      <text class="sans" x="463" y="223" font-size="17" text-anchor="middle" fill="#ece7de">Security</text>
+      <text class="sans" x="463" y="223" font-size="19" text-anchor="middle" fill="#ece7de">Security</text>
     </g>
     <g class="chip" style="animation-delay: 4s">
       <rect x="388" y="254" width="150" height="38" rx="19" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.3" stroke-width="1.5" />
-      <text class="sans" x="463" y="279" font-size="17" text-anchor="middle" fill="#ece7de">DevOps</text>
+      <text class="sans" x="463" y="279" font-size="19" text-anchor="middle" fill="#ece7de">DevOps</text>
     </g>
-    <text class="mono" x="463" y="316" font-size="14" text-anchor="middle" fill="#8ea9c4">+ 8 more agents</text>
+    <text class="mono" x="463" y="316" font-size="16" text-anchor="middle" fill="#8ea9c4">+ 8 more agents</text>
 
     <rect class="gate" x="602" y="99" width="176" height="124" rx="12" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
     <text class="sans" x="690" y="131" font-size="19" font-weight="600" text-anchor="middle" fill="#ece7de">Quality gates</text>
-    <g class="mono" font-size="14" text-anchor="middle" fill="#8ea9c4">
+    <g class="mono" font-size="15" text-anchor="middle" fill="#8ea9c4">
       <text x="690" y="157">format · lint</text>
       <text x="690" y="179">typecheck · tests</text>
       <text x="690" y="201">build · smoke</text>

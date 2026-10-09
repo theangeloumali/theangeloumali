@@ -1,0 +1,405 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Christian Angelo Umali",
+    "label": "Senior Software Engineer & AI Engineer",
+    "email": "angelo@theangeloumali.com",
+    "url": "https://theangeloumali.com",
+    "summary": "Goes by Angelo Umali. Senior Software Engineer & AI Engineer with 9+ years shipping production web and mobile software for teams in six countries: Australia, New Zealand, Singapore, Canada, the United States, and the Philippines. Founded ZKidz Dev LLC in 2020 and still writes the code on its builds. Has been building AI into products since 2025; in 2026 it became most of his work. Current main build is PropApp, an off-market property marketplace in Australia: web platform, iOS and Android apps, and AI features. Based in Manila, Philippines, and works remotely. Open to senior software engineering and AI engineering roles, and to selective client builds through ZKidz Dev.",
+    "location": {
+      "city": "Manila",
+      "countryCode": "PH"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "theangeloumali",
+        "url": "https://github.com/theangeloumali"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "theangeloumali",
+        "url": "https://www.linkedin.com/in/theangeloumali/"
+      },
+      {
+        "network": "Calendly",
+        "url": "https://calendly.com/angelo-zkidzdev/30min"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ZKidz Dev LLC",
+      "position": "Lead Software Engineer & AI Engineer",
+      "location": "Remote",
+      "url": "https://zkidzdev.com",
+      "startDate": "2025-01",
+      "summary": "Owns architecture and delivery across the consultancy's client portfolio, and is lead implementer on its main builds. Clients span Australia, New Zealand, Singapore, Canada, the United States, and the Philippines.",
+      "highlights": [
+        "PropApp, current main build: the Next.js web platform, the vendor and agent mobile apps on React Native and Expo, and AI features including a buyer assistant and a brief builder.",
+        "Since March 2026, consulting for one of the largest lending institutions in the Philippines: building agentic AI software with their engineers, introducing pull-request review and QA automation with end-to-end tests, and running on-site workshops.",
+        "Sets the engineering standards every client engagement runs on, and owns architecture and trade-off decisions across the portfolio.",
+        "Built an agent-orchestration framework on top of Claude Code that routes work to 13 specialized agents and holds each task until its quality gates pass: format, lint, typecheck, tests, build, and a runtime smoke test.",
+        "Shipped AI features in eight products: PropApp, Kitna (ClearSpent), My Business Coach, Lead Nurture Agent, IdeaFlare, Agency Partner Hub, CrownOS, and PulseTrack."
+      ]
+    },
+    {
+      "name": "ZKidz Dev LLC",
+      "position": "Lead Software Engineer",
+      "location": "Remote",
+      "url": "https://zkidzdev.com",
+      "startDate": "2020-07",
+      "endDate": "2025-01",
+      "summary": "Consultancy run alongside two full-time roles, at Adaca and Blackpepper. Technical owner across 15+ production systems in e-commerce, real estate, sports tech, and print-on-demand.",
+      "highlights": [
+        "Taply: architected a white-label e-commerce platform serving 1,000+ businesses across 300+ branded storefronts, at 300K monthly end users. Drove 23% user growth, cut support tickets 30%, and halved build time with an automated Fastlane pipeline.",
+        "Domain Project Sales (formerly realestateprojects.au): delivered five products: a public listings site, an agency and developer portal, a buyer app, an agent app, and a NestJS campaign API with Facebook and Google Ads integrations.",
+        "PICkle Book: led end-to-end development of the photo book app and its web admin: 50-page layouts, 50 concurrent image uploads, print-ready PDF export, and Stripe payments.",
+        "FTBLRLife: led delivery of the React Native sports social platform: real-time messaging, push notifications, video and media sharing, with CI/CD on Fastlane.",
+        "Urban.com.au: two mobile apps and a web platform. Image caching work reduced load times 40%, and automated deployments cut manual release effort 80%."
+      ]
+    },
+    {
+      "name": "Blackpepper",
+      "position": "Senior Software Engineer",
+      "location": "Auckland, New Zealand",
+      "startDate": "2022-08",
+      "endDate": "2024-12",
+      "summary": "Built and maintained React Native e-commerce apps for Australian and New Zealand fashion brands.",
+      "highlights": [
+        "Shipped and maintained 6 React Native e-commerce apps for Glassons, RedRat, and Hallensteins.",
+        "Rebuilt the release process on Fastlane and GitHub Actions, taking a release from 10 days to 4 (60% faster)."
+      ]
+    },
+    {
+      "name": "Adaca",
+      "position": "Senior Software Engineer",
+      "location": "Sydney, Australia",
+      "startDate": "2020-08",
+      "endDate": "2022-08",
+      "summary": "Built web and mobile products in React and React Native.",
+      "highlights": [
+        "Delivered 7 products (4 mobile, 3 web), including real-time trading for the ShoreTrade fishery marketplace.",
+        "Cut bundle size 35% with code-splitting and tree-shaking."
+      ]
+    },
+    {
+      "name": "Trends & Technologies",
+      "position": "Full Stack Developer",
+      "location": "Makati, Philippines",
+      "startDate": "2017-05",
+      "endDate": "2020-09",
+      "summary": "Built full-stack web and mobile applications for client engagements.",
+      "highlights": [
+        "Led a cross-functional team of five across parallel client engagements, delivering 7+ production projects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro Escolar University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI and agentic systems",
+      "keywords": [
+        "Claude",
+        "Gemini",
+        "OpenAI",
+        "Vercel AI SDK",
+        "Model Context Protocol (MCP)",
+        "Pipecat",
+        "WebRTC",
+        "Inngest",
+        "Zod structured output",
+        "Multi-agent systems"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Vite",
+        "Framer Motion"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "keywords": [
+        "React Native",
+        "Expo",
+        "Flutter",
+        "iOS",
+        "Android",
+        "EAS Build"
+      ]
+    },
+    {
+      "name": "Backend and data",
+      "keywords": [
+        "Node.js",
+        "NestJS",
+        "Express",
+        "FastAPI",
+        "Python",
+        "Supabase",
+        "PostgreSQL",
+        "Drizzle ORM",
+        "GraphQL",
+        "REST API",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "State, tooling, and infrastructure",
+      "keywords": [
+        "TanStack Query",
+        "Zustand",
+        "Redux",
+        "Turborepo",
+        "Fastlane",
+        "Bitrise",
+        "GitHub Actions",
+        "Vercel",
+        "AWS",
+        "Stripe",
+        "Sentry"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": ["Playwright", "Jest", "Detox", "Maestro"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "PropApp",
+      "description": "Off-market property marketplace for Australia where agents compete to win a listing. Current main build: web platform, iOS and Android apps, and AI features.",
+      "highlights": [
+        "AI assistant inside buyer chat.",
+        "Public support chat grounded in a knowledge base, with no tools or database access.",
+        "Brief builder that analyses three homes a buyer loves and fills in their buying brief from schema-validated output."
+      ],
+      "keywords": [
+        "Next.js 16",
+        "React 19",
+        "React Native",
+        "Expo",
+        "Supabase",
+        "Drizzle",
+        "Vercel AI SDK",
+        "Stripe",
+        "Sentry",
+        "Turborepo"
+      ],
+      "url": "https://www.propapp.com.au/"
+    },
+    {
+      "name": "ClearSpent (Kitna)",
+      "description": "Agent-first finance app. Kitna is its conversational finance agent.",
+      "highlights": [
+        "Conversational agent with 20+ tools: voice transactions and spend analysis.",
+        "A proposal step: nothing moves until the user approves it."
+      ],
+      "keywords": [
+        "React Native",
+        "Next.js",
+        "Supabase",
+        "Gemini AI",
+        "Vercel AI SDK"
+      ],
+      "url": "https://www.clearspent.com/"
+    },
+    {
+      "name": "My Business Coach",
+      "description": "Voice AI coaching platform for a Singapore-based startup. Joined mid-flight to split WebRTC audio from application logic and make language switching deterministic across 7 languages.",
+      "highlights": [
+        "Real-time multilingual voice agent.",
+        "A discovery agent runs structured intake, then hands off to specialized coaches."
+      ],
+      "keywords": ["Flutter", "FastAPI", "Pipecat", "WebRTC", "Supabase"],
+      "url": "https://mybusinesscoach.app"
+    },
+    {
+      "name": "Lead Nurture Agent",
+      "description": "Lead nurture and qualification agent for webinar leads.",
+      "highlights": [
+        "Scores webinar leads in real time with Claude.",
+        "Alerts closers in Slack and runs personalized follow-up on cold leads.",
+        "Inngest for durable workflows; GoHighLevel CRM."
+      ],
+      "keywords": [
+        "Next.js",
+        "Claude AI",
+        "Inngest",
+        "Supabase",
+        "GoHighLevel"
+      ],
+      "url": "https://lead-nurture-agent.vercel.app/"
+    },
+    {
+      "name": "IdeaFlare",
+      "description": "Turns a voice note or a raw thought into summaries, feature breakdowns, execution plans, and risk assessments, using Gemini structured outputs.",
+      "keywords": ["React Native", "Expo", "Gemini AI", "Supabase", "Drizzle"],
+      "url": "https://ideaflare.app"
+    },
+    {
+      "name": "Agency Partner Hub",
+      "description": "Franchise control plane for AI automation agencies.",
+      "highlights": [
+        "Generates client audit decks with Claude, rendered to PPTX.",
+        "Stripe Connect commission payouts and ROI calculator pages."
+      ],
+      "keywords": ["React", "Vite", "Supabase", "Stripe Connect", "Claude AI"],
+      "url": "https://app.portal.aiagencylabs.io/"
+    },
+    {
+      "name": "CrownOS",
+      "description": "Multi-tenant dental practice management: patient records, scheduling, billing, inventory, clinical charting, and real-time chat, with row-level security per clinic.",
+      "highlights": [
+        "In-app clinic assistant with tools across scheduling, patients, billing, inventory, charting, and analytics, behind a permission gate and a per-clinic plan check."
+      ],
+      "keywords": [
+        "Next.js",
+        "Supabase",
+        "Drizzle",
+        "Vercel AI SDK",
+        "TanStack Query",
+        "Zustand"
+      ],
+      "url": "https://www.crownos.app/"
+    },
+    {
+      "name": "PulseTrack",
+      "description": "Project management with ticket tracking, time tracking, and billing in one loop.",
+      "highlights": [
+        "Client-operations assistant on Gemini that reads client heatmaps and work status, then creates tickets and drafts invoices."
+      ],
+      "keywords": [
+        "Next.js 16",
+        "Supabase",
+        "Drizzle",
+        "Gemini AI",
+        "TanStack Query",
+        "Turborepo"
+      ],
+      "url": "https://pulsetrack.zkidzdev.com"
+    },
+    {
+      "name": "Taply",
+      "description": "White-label Shopify platform behind 300+ branded storefronts for 1,000+ businesses, at 300K monthly end users. Individual tenant apps have since been delisted.",
+      "keywords": ["React Native", "Shopify API", "Redux"]
+    },
+    {
+      "name": "Domain Project Sales",
+      "description": "Formerly realestateprojects.au. Australian property platform across 5 products: listings site, agency portal, buyer app, agent portal, and a NestJS campaign API.",
+      "keywords": [
+        "Next.js",
+        "Vite",
+        "NestJS",
+        "Expo",
+        "Supabase",
+        "Google Maps"
+      ],
+      "url": "https://domainprojectsales.com.au/"
+    },
+    {
+      "name": "PICkle Book",
+      "description": "Monthly photo books with print-ready PDF export: 50 concurrent image uploads, 50-page layouts, and Stripe payments.",
+      "keywords": ["React Native", "Expo", "Next.js", "Supabase", "Stripe"],
+      "url": "https://pickle-book.com"
+    },
+    {
+      "name": "FTBLRLife",
+      "description": "Sports social platform: networking, video, real-time messaging, and performance analytics for athletes, scouts, and coaches.",
+      "keywords": ["React Native", "Firebase", "Redux", "GraphQL"],
+      "url": "https://apps.apple.com/ph/app/ftblrlife/id6444323230"
+    },
+    {
+      "name": "Brokerverse",
+      "description": "White-label SaaS for Australian mortgage brokers: per-broker subdomains, custom theming, and a block-based landing page editor.",
+      "keywords": [
+        "Next.js 16",
+        "React 19",
+        "Supabase",
+        "Drizzle",
+        "Stripe",
+        "Leaflet"
+      ],
+      "url": "https://brokerverse.com.au/"
+    },
+    {
+      "name": "The Last Will",
+      "description": "Offline encrypted vault for wills, beneficiaries, and sensitive documents, with AES-256 encryption and biometric unlock.",
+      "keywords": ["React Native", "Expo", "AES-256", "Biometrics", "Fastlane"],
+      "url": "https://thelastwill.app"
+    },
+    {
+      "name": "ClaudeWatch",
+      "description": "Open-source desktop app that monitors running Claude Code sessions in real time, with a menu bar tray.",
+      "keywords": ["Electron", "React", "TypeScript", "Claude Code"],
+      "url": "https://github.com/theangeloumali/ClaudeWatch",
+      "type": "open source"
+    },
+    {
+      "name": "store-validator",
+      "description": "Open-source npm CLI that checks Expo, Flutter, Capacitor, React Native, and TWA apps for App Store and Play Store rejection risks before submission.",
+      "keywords": ["TypeScript", "Node.js", "npm CLI"],
+      "url": "https://github.com/theangeloumali/zkidz-store-validator",
+      "type": "open source"
+    }
+  ],
+  "references": [
+    {
+      "name": "Alain, CEO at Blackpepper",
+      "reference": "Christian consistently delivered high-quality mobile applications that exceeded our expectations. His attention to detail and ability to work with cross-functional teams made him an invaluable team member."
+    },
+    {
+      "name": "David, Founder at FTBLRLIFE",
+      "reference": "I have worked with Angelo for 3 years on a very big app project. He has worked on the front end, designs, as well as our service provider for digital asset management. The biggest benefit to hiring Angelo is he can solve any problem that comes up. Our app has messaging, a store, gamification, leaderboards, profiles, news etc. We are lucky to have found Angelo."
+    },
+    {
+      "name": "Hussam, Lead Engineer",
+      "reference": "Christian played a crucial role in our success, deploying over 300 white-label storefronts. His ability to mentor junior developers while maintaining high code quality standards was remarkable."
+    },
+    {
+      "name": "Louis, Head of Product",
+      "reference": "Angelo brings both technical expertise and business judgment to every project. He understands complex requirements and turns them into solutions that actually ship well."
+    },
+    {
+      "name": "Albert, Software Engineer at Blackpepper",
+      "reference": "I highly recommend Angelo, my former colleague at Blackpepper NZ. Angelo consistently delivered high-quality mobile applications on time, showcasing his expertise in React Native and advanced technical skills."
+    },
+    {
+      "name": "Jaye, Software Engineer at Trends",
+      "reference": "I worked with Angelo for several projects and he really is a reliable teammate. He always shares what he discovered from different technologies and helped raise our code standards."
+    },
+    {
+      "name": "Kyrie, Software Engineer at Trends",
+      "reference": "I recommend Angelo as a Software Engineer. Besides his technical skills, he is a hardworking and dedicated professional who always delivers quality work."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "Filipino"
+    }
+  ],
+  "meta": {
+    "canonical": "https://theangeloumali.com",
+    "version": "v1.0.0",
+    "lastModified": "2026-10-10T00:00:00"
+  }
+}

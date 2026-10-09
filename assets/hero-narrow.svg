@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 392" width="420" height="392" role="img" aria-labelledby="t d">
+  <title id="t">Christian Angelo Umali, Senior Software Engineer and AI Engineer</title>
+  <desc id="d">Web platforms, mobile apps and agentic AI systems. 9+ years, six countries, 1,000+ businesses. Now building PropApp.</desc>
+  <defs><clipPath id="card"><rect width="420" height="392" rx="16" /></clipPath><radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#d5b13a" stop-opacity="0.3" /><stop offset="1" stop-color="#d5b13a" stop-opacity="0" /></radialGradient></defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .spin { transform-origin: 320px 96px; animation: spin 26s linear infinite; }
+    .spinRev { transform-origin: 320px 96px; animation: spin 18s linear infinite reverse; }
+    .core { transform-origin: 320px 96px; animation: pulse 3.2s ease-in-out infinite; }
+    .underline { stroke-dasharray: 300; stroke-dashoffset: 300; animation: draw 1.4s 0.4s cubic-bezier(0.2, 0.7, 0.2, 1) forwards; }
+    .line { opacity: 0; animation: cycle 12s infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.12); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes cycle { 0% { opacity: 0; transform: translateY(8px); } 4%, 30% { opacity: 1; transform: translateY(0); } 34%, 100% { opacity: 0; transform: translateY(-8px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .l1 { opacity: 1; } .underline { stroke-dashoffset: 0; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="420" height="392" fill="#0c1117" />
+    <circle cx="330" cy="80" r="190" fill="url(#glow)" />
+    <g fill="none" stroke="#8ea9c4" stroke-opacity="0.28" stroke-width="1.2"><circle cx="320" cy="96" r="34" /><circle cx="320" cy="96" r="58" stroke-dasharray="3 7" /><circle cx="320" cy="96" r="82" /></g>
+    <g class="spinRev"><circle cx="320" cy="38" r="5" fill="#d5b13a" /><circle cx="370" cy="125" r="3.5" fill="#8ea9c4" /><circle cx="270" cy="125" r="3.5" fill="#ece7de" /></g>
+    <g class="spin"><circle cx="402" cy="96" r="4" fill="#8ea9c4" /><circle cx="279" cy="25" r="3.5" fill="#d5b13a" /><circle cx="279" cy="167" r="5" fill="#ece7de" /></g>
+    <g class="core"><circle cx="320" cy="96" r="16" fill="#d5b13a" fill-opacity="0.16" /><circle cx="320" cy="96" r="8" fill="#d5b13a" /></g>
+    <text class="mono" x="32" y="198" font-size="15" letter-spacing="1.6" fill="#8ea9c4">SENIOR SOFTWARE ENGINEER</text>
+    <text class="mono" x="32" y="220" font-size="15" letter-spacing="1.6" fill="#8ea9c4">&amp; AI ENGINEER</text>
+    <text class="sans" x="30" y="270" font-size="35" font-weight="700" letter-spacing="-0.8" fill="#ece7de">Christian Angelo Umali</text>
+    <path class="underline" d="M32 292 H322" stroke="#d5b13a" stroke-width="4" stroke-linecap="round" fill="none" />
+    <g class="line l1" style="animation-delay: 0s"><text class="sans" x="32" y="332" font-size="21" fill="#ece7de">Web platforms · Mobile apps</text><text class="sans" x="32" y="360" font-size="21" fill="#ece7de">Agentic AI systems</text></g>
+    <g class="line" style="animation-delay: 4s"><text class="sans" x="32" y="332" font-size="21" fill="#ece7de">9+ years · 6 countries</text><text class="sans" x="32" y="360" font-size="21" fill="#ece7de">1,000+ businesses</text></g>
+    <g class="line" style="animation-delay: 8s"><text class="sans" x="32" y="332" font-size="21" fill="#ece7de">Now building <tspan fill="#d5b13a" font-weight="600">PropApp</tspan></text><text class="sans" x="32" y="360" font-size="21" fill="#ece7de"></text></g>
+
+  </g>
+  <rect x="0.75" y="0.75" width="418.5" height="390.5" rx="15.25" fill="none" stroke="#8ea9c4" stroke-opacity="0.25" stroke-width="1.5" />
+</svg>

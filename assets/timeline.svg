@@ -6,7 +6,7 @@
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
     .lbl { font-size: 17px; }
-    .lane { font-size: 13px; letter-spacing: 2.2px; fill: #8ea9c4; }
+    .lane { font-size: 15px; letter-spacing: 1.8px; fill: #8ea9c4; }
     .bar rect { transform-box: fill-box; transform-origin: left center; animation: grow 14s cubic-bezier(0.2, 0.7, 0.2, 1) infinite both; animation-delay: inherit; }
     .bar text { animation: label 14s ease-out infinite both; animation-delay: inherit; }
     .b0 { animation-delay: 0.00s; }
@@ -56,18 +56,18 @@
     </g>
     <line x1="40" y1="204" x2="800" y2="204" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
     <line x1="60" y1="204" x2="60" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
-    <text class="mono" x="60" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2017</text>
+    <text class="mono" x="60" y="234" font-size="17" text-anchor="middle" fill="#8ea9c4">2017</text>
     <line x1="208" y1="204" x2="208" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
-    <text class="mono" x="208" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2019</text>
+    <text class="mono" x="208" y="234" font-size="17" text-anchor="middle" fill="#8ea9c4">2019</text>
     <line x1="356" y1="204" x2="356" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
-    <text class="mono" x="356" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2021</text>
+    <text class="mono" x="356" y="234" font-size="17" text-anchor="middle" fill="#8ea9c4">2021</text>
     <line x1="504" y1="204" x2="504" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
-    <text class="mono" x="504" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2023</text>
+    <text class="mono" x="504" y="234" font-size="17" text-anchor="middle" fill="#8ea9c4">2023</text>
     <line x1="652" y1="204" x2="652" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
-    <text class="mono" x="652" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2025</text>
+    <text class="mono" x="652" y="234" font-size="17" text-anchor="middle" fill="#8ea9c4">2025</text>
     <circle class="ping" cx="783.0" cy="204" r="5" fill="#d5b13a" />
     <circle cx="783.0" cy="204" r="5" fill="#d5b13a" />
-    <text class="mono" x="783.0" y="234" font-size="15" text-anchor="middle" fill="#d5b13a">now</text>
+    <text class="mono" x="783.0" y="234" font-size="17" text-anchor="middle" fill="#d5b13a">now</text>
   </g>
   <rect x="0.75" y="0.75" width="838.5" height="248.5" rx="15.25" fill="none" stroke="#8ea9c4" stroke-opacity="0.25" stroke-width="1.5" />
 </svg>

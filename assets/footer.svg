@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 90" width="840" height="90" role="img" aria-labelledby="t">
+  <title id="t">Still learning, still building, still shipping.</title>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .w { animation: lit 6s ease-in-out infinite; fill: #8ea9c4; }
+    .w2 { animation-delay: 2s; }
+    .w3 { animation-delay: 4s; }
+    @keyframes lit { 0%, 33%, 100% { fill: #8ea9c4; } 8%, 25% { fill: #d5b13a; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="340" y="14" width="160" height="2" rx="1" fill="#d5b13a" fill-opacity="0.7" />
+  <text class="sans" x="420" y="58" font-size="24" font-weight="600" text-anchor="middle"><tspan class="w">Still learning,</tspan><tspan class="w w2"> still building,</tspan><tspan class="w w3"> still shipping.</tspan></text>
+</svg>

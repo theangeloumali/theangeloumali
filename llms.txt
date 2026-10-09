@@ -1,0 +1,83 @@
+# Christian Angelo Umali
+
+> Christian Angelo Umali, who goes by Angelo Umali, is a Senior Software Engineer & AI Engineer based in Manila, Philippines, working remotely. He has 9+ years shipping production web and mobile software for teams in six countries, and founded ZKidz Dev LLC in 2020. He has been building AI into products since 2025, and in 2026 it became most of his work. His current main build is PropApp, an off-market property marketplace in Australia.
+
+Last updated: 2026-10-10. The same profile in JSON Resume form is in `resume.json`, next to this file.
+
+## Contact
+
+- Email: angelo@theangeloumali.com
+- [Portfolio](https://theangeloumali.com): full project list
+- [GitHub](https://github.com/theangeloumali)
+- [LinkedIn](https://www.linkedin.com/in/theangeloumali/)
+- [Book a 30-minute call](https://calendly.com/angelo-zkidzdev/30min)
+- [ZKidz Dev](https://zkidzdev.com): his consultancy
+
+## Current work
+
+- Main build: [PropApp](https://www.propapp.com.au/), an off-market property marketplace in Australia. He works across the web platform, the iOS and Android apps, and its AI features.
+- Since March 2026 he has consulted for one of the largest lending institutions in the Philippines: building agentic AI software with their engineers, introducing pull-request review and QA automation with end-to-end tests, and running on-site workshops.
+- Open to senior software engineering and AI engineering roles, and to selective client builds through ZKidz Dev. Fractional CTO engagements are a service he offers through the consultancy.
+
+## Experience
+
+- Jan 2025 - present: Lead Software Engineer & AI Engineer, ZKidz Dev LLC (remote)
+- Jul 2020 - Jan 2025: Lead Software Engineer, ZKidz Dev LLC (remote). A consultancy run alongside the two full-time roles below.
+- Aug 2022 - Dec 2024: Senior Software Engineer, Blackpepper (Auckland, New Zealand)
+- Aug 2020 - Aug 2022: Senior Software Engineer, Adaca (Sydney, Australia)
+- May 2017 - Sep 2020: Full Stack Developer, Trends & Technologies (Makati, Philippines)
+
+## Education
+
+- Bachelor of Information Technology, Centro Escolar University, 2013 - 2017
+
+## Products with AI
+
+- [PropApp](https://www.propapp.com.au/): AI assistant inside buyer chat; a public support chat grounded in a knowledge base with no tools or database access; a brief builder that analyses three homes a buyer loves and fills in their buying brief from schema-validated output. Vercel AI SDK.
+- [Kitna (ClearSpent)](https://www.clearspent.com/): conversational finance agent with 20+ tools. Voice transactions, spend analysis, and a proposal step where nothing moves until the user approves it. Gemini.
+- [My Business Coach](https://mybusinesscoach.app): real-time multilingual voice agent for a Singapore-based startup. A discovery agent runs structured intake, then hands off to specialized coaches, with deterministic language switching across 7 languages. Pipecat and WebRTC.
+- [Lead Nurture Agent](https://lead-nurture-agent.vercel.app/): scores webinar leads in real time with Claude, alerts closers in Slack, and runs personalized follow-up on cold leads. Inngest and GoHighLevel.
+- [IdeaFlare](https://ideaflare.app): turns a voice note or a raw thought into summaries, feature breakdowns, execution plans, and risk assessments. Gemini structured outputs.
+- [Agency Partner Hub](https://app.portal.aiagencylabs.io/): generates client audit decks with Claude, rendered to PPTX, plus Stripe Connect commission payouts.
+- [CrownOS](https://www.crownos.app/): in-app clinic assistant with tools across scheduling, patients, billing, inventory, charting, and analytics, behind a permission gate and a per-clinic plan check. Vercel AI SDK.
+- [PulseTrack](https://pulsetrack.zkidzdev.com): client-operations assistant on Gemini that reads client heatmaps and work status, then creates tickets and drafts invoices.
+
+## Other work
+
+- Taply: white-label Shopify platform behind 300+ branded storefronts for 1,000+ businesses, at 300K monthly end users. React Native, Shopify API, Redux.
+- [Domain Project Sales](https://domainprojectsales.com.au/) (formerly realestateprojects.au): Australian property platform across five products: listings site, agency portal, buyer app, agent portal, and a NestJS campaign API.
+- [PICkle Book](https://pickle-book.com): monthly photo books with print-ready PDF export, 50 concurrent image uploads, 50-page layouts, and Stripe payments.
+- [FTBLRLife](https://apps.apple.com/ph/app/ftblrlife/id6444323230): React Native sports social platform with real-time messaging, video, and performance analytics.
+- [Brokerverse](https://brokerverse.com.au/): white-label SaaS for Australian mortgage brokers, with per-broker subdomains and custom theming.
+- [The Last Will](https://thelastwill.app): offline encrypted vault for wills and sensitive documents. AES-256, biometric unlock.
+- Blackpepper: six React Native e-commerce apps for the fashion brands Glassons, RedRat, and Hallensteins.
+- Adaca: seven products (four mobile, three web), including real-time trading for the ShoreTrade fishery marketplace.
+
+## Open source
+
+- [ClaudeWatch](https://github.com/theangeloumali/ClaudeWatch): desktop app that monitors running Claude Code sessions in real time, with a menu bar tray. Electron, React, TypeScript.
+- [store-validator](https://github.com/theangeloumali/zkidz-store-validator): npm CLI that checks Expo, Flutter, Capacitor, React Native, and TWA apps for App Store and Play Store rejection risks before submission.
+
+## Results and key facts
+
+- Taply: 300+ white-label storefronts, 1,000+ businesses, 300K monthly end users.
+- Blackpepper: release cycle cut from 10 days to 4, 60% faster, after rebuilding the release process on Fastlane and GitHub Actions.
+- Adaca: mobile bundle size reduced 35% with code-splitting and tree-shaking.
+- 15+ production systems delivered.
+- 9+ years of experience.
+- Six countries: Australia, New Zealand, Singapore, Canada, United States, Philippines.
+
+## How he builds
+
+- He runs an agent-orchestration framework he built on top of Claude Code. It routes work to 13 specialized agents.
+- A task closes only after its quality gates pass: format, lint, typecheck, tests, build, then a runtime smoke test.
+- MCP servers in the daily loop: Context7 for documentation, Playwright and Chrome DevTools for verification.
+
+## Skills
+
+- AI: Claude, Gemini, OpenAI, Vercel AI SDK, Model Context Protocol (MCP), Pipecat, WebRTC, Inngest, Zod structured output
+- Frontend: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Vite, Framer Motion
+- Mobile: React Native, Expo, Flutter, iOS, Android, EAS Build
+- Backend and data: Node.js, NestJS, FastAPI, Python, Supabase, PostgreSQL, Drizzle ORM, GraphQL, Firebase
+- Tooling and infrastructure: TanStack Query, Zustand, Redux, Turborepo, Playwright, Fastlane, Vercel, AWS, Stripe, Sentry
+- Languages spoken: English, Filipino
