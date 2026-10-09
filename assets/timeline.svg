@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 250" width="840" height="250" role="img" aria-labelledby="t d">
+  <title id="t">Career timeline, 2017 to now</title>
+  <desc id="d">Full-time roles: Trends and Technologies 2017 to 2020, Adaca 2020 to 2022, Blackpepper 2022 to 2024. ZKidz Dev LLC: Lead Software Engineer from 2020, Lead Software Engineer and AI Engineer from 2025 to now.</desc>
+  <defs><clipPath id="card"><rect width="840" height="250" rx="16" /></clipPath></defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .lbl { font-size: 17px; }
+    .lane { font-size: 13px; letter-spacing: 2.2px; fill: #8ea9c4; }
+    .bar rect { transform-box: fill-box; transform-origin: left center; animation: grow 14s cubic-bezier(0.2, 0.7, 0.2, 1) infinite both; animation-delay: inherit; }
+    .bar text { animation: label 14s ease-out infinite both; animation-delay: inherit; }
+    .b0 { animation-delay: 0.00s; }
+    .b1 { animation-delay: 0.25s; }
+    .b2 { animation-delay: 0.50s; }
+    .b3 { animation-delay: 0.75s; }
+    .b4 { animation-delay: 1.00s; }
+    .ping { transform-box: fill-box; transform-origin: center; animation: ping 2s ease-out infinite; }
+    @keyframes grow { 0% { transform: scaleX(0); opacity: 0; } 7%, 94% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
+    @keyframes label { 0%, 5% { opacity: 0; } 10%, 94% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes ping { 0% { transform: scale(1); opacity: 0.8; } 100% { transform: scale(3); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="840" height="250" fill="#0c1117" />
+    <line x1="60" y1="36" x2="60" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="134" y1="36" x2="134" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="208" y1="36" x2="208" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="282" y1="36" x2="282" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="356" y1="36" x2="356" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="430" y1="36" x2="430" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="504" y1="36" x2="504" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="578" y1="36" x2="578" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="652" y1="36" x2="652" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <line x1="726" y1="36" x2="726" y2="204" stroke="#8ea9c4" stroke-opacity="0.1" stroke-width="1" />
+    <text class="mono lane" x="84.4" y="36">FULL-TIME ROLES</text>
+    <text class="mono lane" x="319.0" y="122">ZKIDZ DEV LLC · CONSULTANCY</text>
+    <g class="bar b0">
+      <rect x="84.4" y="48" width="245.0" height="42" rx="8" fill="#17212d" stroke="#8ea9c4" stroke-opacity="0.45" stroke-width="1.5" />
+      <text class="sans lbl" x="206.9" y="75" text-anchor="middle" fill="#ece7de">Trends &amp; Technologies</text>
+    </g>
+    <g class="bar b1">
+      <rect x="331.6" y="48" width="139.8" height="42" rx="8" fill="#17212d" stroke="#8ea9c4" stroke-opacity="0.45" stroke-width="1.5" />
+      <text class="sans lbl" x="401.5" y="75" text-anchor="middle" fill="#ece7de">Adaca</text>
+    </g>
+    <g class="bar b2">
+      <rect x="474.4" y="48" width="171.7" height="42" rx="8" fill="#17212d" stroke="#8ea9c4" stroke-opacity="0.45" stroke-width="1.5" />
+      <text class="sans lbl" x="560.2" y="75" text-anchor="middle" fill="#ece7de">Blackpepper</text>
+    </g>
+    <g class="bar b3">
+      <rect x="319.0" y="134" width="330.8" height="42" rx="8" fill="#17212d" stroke="#8ea9c4" stroke-opacity="0.45" stroke-width="1.5" />
+      <text class="sans lbl" x="484.4" y="161" text-anchor="middle" fill="#ece7de">Lead Software Engineer</text>
+    </g>
+    <g class="bar b4">
+      <rect x="652.0" y="134" width="131.0" height="42" rx="8" fill="#d5b13a" stroke="#d5b13a" stroke-opacity="1" stroke-width="1.5" />
+      <text class="sans lbl" x="717.5" y="161" text-anchor="middle" fill="#0c1117" font-weight="700">+ AI Engineer</text>
+    </g>
+    <line x1="40" y1="204" x2="800" y2="204" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
+    <line x1="60" y1="204" x2="60" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
+    <text class="mono" x="60" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2017</text>
+    <line x1="208" y1="204" x2="208" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
+    <text class="mono" x="208" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2019</text>
+    <line x1="356" y1="204" x2="356" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
+    <text class="mono" x="356" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2021</text>
+    <line x1="504" y1="204" x2="504" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
+    <text class="mono" x="504" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2023</text>
+    <line x1="652" y1="204" x2="652" y2="212" stroke="#8ea9c4" stroke-opacity="0.6" stroke-width="1.5" />
+    <text class="mono" x="652" y="234" font-size="15" text-anchor="middle" fill="#8ea9c4">2025</text>
+    <circle class="ping" cx="783.0" cy="204" r="5" fill="#d5b13a" />
+    <circle cx="783.0" cy="204" r="5" fill="#d5b13a" />
+    <text class="mono" x="783.0" y="234" font-size="15" text-anchor="middle" fill="#d5b13a">now</text>
+  </g>
+  <rect x="0.75" y="0.75" width="838.5" height="248.5" rx="15.25" fill="none" stroke="#8ea9c4" stroke-opacity="0.25" stroke-width="1.5" />
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 190" width="840" height="190" role="img" aria-labelledby="t d">
+  <title id="t">Now building: PropApp</title>
+  <desc id="d">Off-market property marketplace in Australia. Web platform, iOS and Android apps, AI features.</desc>
+  <defs>
+    <clipPath id="card"><rect width="840" height="190" rx="16" /></clipPath>
+    <linearGradient id="sheen" x1="0" x2="1">
+      <stop offset="0" stop-color="#ece7de" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#ece7de" stop-opacity="0.09" />
+      <stop offset="1" stop-color="#ece7de" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .ping { transform-origin: 66px 50px; animation: ping 2s ease-out infinite; }
+    .sheen { animation: sheen 6s ease-in-out infinite; }
+    .chip { animation: chip 6s ease-in-out infinite; }
+    .c2 { animation-delay: 2s; }
+    .c3 { animation-delay: 4s; }
+    @keyframes ping { 0% { transform: scale(1); opacity: 0.7; } 100% { transform: scale(3.2); opacity: 0; } }
+    @keyframes sheen { 0% { transform: translateX(-320px); } 60%, 100% { transform: translateX(900px); } }
+    @keyframes chip { 0%, 22%, 100% { stroke-opacity: 0.35; } 8% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="840" height="190" fill="#0c1117" />
+    <rect width="6" height="190" fill="#d5b13a" />
+    <rect class="sheen" x="0" y="0" width="300" height="190" fill="url(#sheen)" transform="skewX(-18)" />
+
+    <circle class="ping" cx="66" cy="50" r="6" fill="#d5b13a" />
+    <circle cx="66" cy="50" r="6" fill="#d5b13a" />
+    <text class="mono" x="86" y="56" font-size="16" letter-spacing="2.6" fill="#d5b13a">NOW BUILDING</text>
+
+    <text class="sans" x="56" y="112" font-size="46" font-weight="700" letter-spacing="-0.8" fill="#ece7de">PropApp</text>
+    <text class="sans" x="252" y="110" font-size="21" fill="#8ea9c4">Off-market property marketplace · Australia</text>
+
+    <g class="sans" font-size="18" fill="#ece7de">
+      <rect class="chip" x="56" y="134" width="162" height="36" rx="18" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
+      <text x="137" y="158" text-anchor="middle">Web platform</text>
+      <rect class="chip c2" x="230" y="134" width="176" height="36" rx="18" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
+      <text x="318" y="158" text-anchor="middle">iOS &amp; Android</text>
+      <rect class="chip c3" x="418" y="134" width="146" height="36" rx="18" fill="#121a24" stroke="#d5b13a" stroke-opacity="0.35" stroke-width="1.5" />
+      <text x="491" y="158" text-anchor="middle">AI features</text>
+    </g>
+    <text class="mono" x="784" y="158" font-size="16" text-anchor="end" fill="#8ea9c4">propapp.com.au →</text>
+  </g>
+  <rect x="0.75" y="0.75" width="838.5" height="188.5" rx="15.25" fill="none" stroke="#8ea9c4" stroke-opacity="0.25" stroke-width="1.5" />
+</svg>
