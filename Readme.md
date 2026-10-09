@@ -1,6 +1,6 @@
 # Hey, I'm Angelo 👋
 
-<a href="https://theangeloumali.com"><img src="./assets/hero.svg" width="100%" alt="Angelo Umali, Senior Software Engineer and AI Engineer. Web platforms, mobile apps and agentic AI systems." /></a>
+<a href="https://theangeloumali.com"><img src="./assets/hero.svg" width="100%" alt="Christian Angelo Umali, Senior Software Engineer and AI Engineer. Web platforms, mobile apps and agentic AI systems." /></a>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=1000&color=D5B13A&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=44&lines=Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Storefronts+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="Senior Software Engineer and AI Engineer. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
