@@ -6,15 +6,16 @@
 
 <a href="https://app.daily.dev/theangeloumali"><img src="https://github.com/theangeloumali/theangeloumali/blob/master/devcard.svg" width="360" alt="Angelo's daily.dev card"/></a>
 
-**Senior Software Engineer & AI Engineer.** I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been shipping production mobile and web software since 2017. These days most of that work runs through AI agents I direct like a dev team, with TDD and automated review enforced on every task.
+**Senior Software Engineer & AI Engineer.** I've spent 9+ years shipping production web and mobile software for teams in six countries, including a white-label commerce platform used by 1,000+ businesses. I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been building AI into products since 2025, and in 2026 it became most of my work: agentic systems for clients, with my own delivery running through AI agents I direct like a dev team, TDD and automated review enforced on every task.
 
+Right now my main build is [PropApp](https://www.propapp.com.au/), an off-market property marketplace in Australia, where I work across the web platform, the iOS and Android apps, and its AI features. I'm also consulting for one of the largest lending institutions in the Philippines, building agentic AI software with their engineers and standing up their AI development practice.
 
-Based in the Philippines, delivering across AU, NZ, US, CA, and PH.
+Based in Manila, Philippines, delivering across AU, NZ, SG, US, CA, and PH.
 
 [![Available for Work](https://img.shields.io/badge/Available_for_Work-brightgreen?style=flat-square)](mailto:angelo@theangeloumali.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-theangeloumali-181717?style=flat-square&logo=github)](https://github.com/theangeloumali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-christianangelo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/christianangelo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theangeloumali-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/theangeloumali/)
 [![Email](https://img.shields.io/badge/Email-angelo@theangeloumali.com-EA4335?style=flat-square&logo=gmail)](mailto:angelo@theangeloumali.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-theangeloumali.com-0A7E73?style=flat-square&logo=vercel)](https://theangeloumali.com)
 
@@ -26,27 +27,27 @@ Two separate things, and I think the distinction matters: AI systems I ship for 
 
 ### AI products in production
 
-| Project                | What the AI actually does                                                                                                                                                                                                                   |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kitna** (ClearSpent) | Conversational finance agent with 20+ tools. Voice transactions, spend analysis, and a proposal step where nothing moves until you approve it. Gemini AI.                                                                                   |
-| **My Business Coach**  | Real-time multilingual voice agent for a Singapore startup. A discovery agent runs structured intake, then hands off to specialized coaches using LLM chemistry scoring and deterministic switching across 7 languages. Pipecat and WebRTC. |
-| **Lead Nurture Agent** | Scores webinar leads in real time with Claude, alerts closers in Slack, and runs personalized follow-up on cold leads. Inngest for durable workflows, GoHighLevel CRM.                                                        |
-| **IdeaFlare**          | Turns a voice note or a raw thought into summaries, feature breakdowns, execution plans, and risk assessments. Gemini structured outputs.                                                                                                   |
-| **Agency Partner Hub** | Generates client audit decks with Claude, rendered to PPTX, plus Stripe Connect commission payouts.                                                                                                                                         |
-| **AI Bot Marketplace** | SMS and voice automation bot templates across 376+ business niches.                                                                                                                                                                         |
+| Project                | What the AI actually does                                                                                                                                                                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PropApp**            | AI assistant inside buyer chat, a public support chat grounded in a knowledge base with no tools or database access, and a brief builder that analyses three homes a buyer loves and fills in their buying brief from schema-validated output. Vercel AI SDK. |
+| **Kitna** (ClearSpent) | Conversational finance agent with 20+ tools. Voice transactions, spend analysis, and a proposal step where nothing moves until you approve it. Gemini AI.                                                                                                     |
+| **My Business Coach**  | Real-time multilingual voice agent for a Singapore startup. A discovery agent runs structured intake, then hands off to specialized coaches using LLM chemistry scoring and deterministic switching across 7 languages. Pipecat and WebRTC.                   |
+| **Lead Nurture Agent** | Scores webinar leads in real time with Claude, alerts closers in Slack, and runs personalized follow-up on cold leads. Inngest for durable workflows, GoHighLevel CRM.                                                                                        |
+| **IdeaFlare**          | Turns a voice note or a raw thought into summaries, feature breakdowns, execution plans, and risk assessments. Gemini structured outputs.                                                                                                                     |
+| **Agency Partner Hub** | Generates client audit decks with Claude, rendered to PPTX, plus Stripe Connect commission payouts.                                                                                                                                                           |
+| **CrownOS**            | In-app clinic assistant with tools across scheduling, patients, billing, inventory, charting and analytics, behind a permission gate and a per-clinic plan check. Vercel AI SDK.                                                                              |
+| **PulseTrack**         | Client-operations assistant on Gemini that reads client heatmaps and work status, then creates tickets and drafts invoices.                                                                                                                                   |
 
 `Claude` `Gemini` `OpenAI` `Vercel AI SDK` `MCP` `Pipecat` `WebRTC` `Inngest` `Zod structured output`
 
 ### How I build
 
-I run an orchestration framework called SuperClaude on top of Claude Code. It routes work to 11 specialized agent personas (frontend, backend, security, QA, architecture, and so on), and it will not let a task close until the quality gates pass.
+I run an agent-orchestration framework I built on top of Claude Code. It routes work to 13 specialized agents (frontend, backend, security, QA, architecture, and so on), and it will not let a task close until the quality gates pass.
 
 - Parallel agent teams handle independent slices of a feature at once, with exclusive file ownership so they don't collide
 - MCP servers wired into the daily loop: Context7 for docs, Playwright and Chrome DevTools for verification, plus research and code-navigation servers
 - Custom skills for the workflows I repeat: TDD feature builds, agent-team dispatch, deep research, automated code review
 - Enforced gates on every task: format, lint, typecheck, tests, build, then a runtime smoke test before anything is called done
-
-I have not measured the speedup against a controlled baseline, so I am not going to put a multiplier on it. What I can say is that the gates run on every task rather than when there is time for them.
 
 ---
 
@@ -122,20 +123,26 @@ I have not measured the speedup against a controlled baseline, so I am not going
 
 ## 💼 Experience
 
-| Period         | Role                             | Company                   | Location      |
-| -------------- | -------------------------------- | ------------------------- | ------------- |
-| 2020 - Present | CTO & Principal Software Engineer · AI Solutions Architect | **ZKidz Dev LLC** | Remote |
-| 2022 - 2024    | Senior Software Engineer         | **Blackpepper**           | Auckland, NZ  |
-| 2020 - 2022    | Senior Software Engineer         | **Adaca**                 | Sydney, AU    |
-| 2017 - 2020    | Software Engineer & Lead Developer | **Trends & Technologies** | Makati, PH |
+| Period              | Role                                 | Company                   | Location     |
+| ------------------- | ------------------------------------ | ------------------------- | ------------ |
+| Jan 2025 - Present  | Lead Software Engineer & AI Engineer | **ZKidz Dev LLC**         | Remote       |
+| Jul 2020 - Jan 2025 | Lead Software Engineer               | **ZKidz Dev LLC**         | Remote       |
+| Aug 2022 - Dec 2024 | Senior Software Engineer             | **Blackpepper**           | Auckland, NZ |
+| Aug 2020 - Aug 2022 | Senior Software Engineer             | **Adaca**                 | Sydney, AU   |
+| May 2017 - Sep 2020 | Full Stack Developer                 | **Trends & Technologies** | Makati, PH   |
 
 A few things I'm proud of from those years:
 
-- **ZKidz Dev.** Set the engineering standards every client engagement runs on, and own architecture and trade-off calls across the portfolio. Clients include PropApp, My Business Coach, FTBLRLIFE, PickleBook, realestateprojects.au, Taply, and Urban.
-- **Taply.** Architected a white-label e-commerce platform serving 1,000+ businesses across 300+ branded storefronts. Drove 23% user growth, cut support tickets 30%, and halved build time with an automated Fastlane pipeline.
-- **Blackpepper.** Shipped and maintained 6 React Native e-commerce apps for Glassons, RedRat, and Hallensteins. CI/CD work made deployments 60% faster.
-- **Adaca.** Delivered 7 products across mobile and web, and cut bundle size 35% with code-splitting and tree-shaking.
-- **Urban.com.au.** Two mobile apps and a web platform. Image caching work reduced load times 40%.
+- **PropApp.** My current main build: the Next.js web platform, the vendor and agent mobile apps on React Native and Expo, and AI features including a buyer assistant and a brief builder.
+- **AI enablement.** Building with AI since 2025, scaled up sharply in 2026. Since March 2026 I've been consulting for a Philippine lending institution: building agentic AI software with their engineers, introducing pull-request review and QA automation with end-to-end tests, and running on-site workshops.
+- **ZKidz Dev.** Set the engineering standards every client engagement runs on, and own architecture and trade-off calls across the portfolio. Clients include PropApp, My Business Coach, FTBLRLIFE, PickleBook, Domain Project Sales, Taply, Urban, and OutStaffer.
+- **Taply.** Architected a white-label e-commerce platform serving 1,000+ businesses across 300+ branded storefronts, at 300K monthly end users. Drove 23% user growth, cut support tickets 30%, and halved build time with an automated Fastlane pipeline.
+- **Domain Project Sales** (formerly realestateprojects.au). Delivered five products: a public listings site, an agency and developer portal, a buyer app, an agent app, and a NestJS campaign API with Facebook and Google Ads integrations.
+- **PICkle Book.** Led end-to-end development of the photo book app and its web admin: 50-page layouts, 50 concurrent image uploads, print-ready PDF export, and Stripe payments.
+- **FTBLRLife.** Led delivery of the React Native sports social platform: real-time messaging, push notifications, video and media sharing, with CI/CD on Fastlane.
+- **Blackpepper.** Shipped and maintained 6 React Native e-commerce apps for Glassons, RedRat, and Hallensteins. Rebuilt the release process on Fastlane and GitHub Actions, taking a release from 10 days to 4 (60% faster).
+- **Adaca.** Delivered 7 products (4 mobile, 3 web), including real-time trading for the ShoreTrade fishery marketplace, and cut bundle size 35% with code-splitting and tree-shaking.
+- **Urban.com.au.** Two mobile apps and a web platform. Image caching work reduced load times 40%, and automated deployments cut manual release effort 80%.
 - **Trends & Technologies.** Led a cross-functional team of five across parallel client engagements, delivering 7+ production projects.
 
 ---
@@ -146,13 +153,37 @@ A few things I'm proud of from those years:
 <tr>
 <td width="50%">
 
+**🏠 PropApp**
+
+Off-market property marketplace for Australia where agents compete to win your listing. My current main build: web platform, iOS and Android apps, and AI features including a buyer assistant and a brief builder. Turborepo, AU-resident data (Sydney).
+
+**Tech**: Next.js 16, React 19, Supabase, Drizzle, Vercel AI SDK, Stripe, Sentry
+
+[Website](https://www.propapp.com.au/) · [Android](https://play.google.com/store/apps/details?id=au.com.propapp.app) · [iOS](https://apps.apple.com/au/app/propapp/id6475382641)
+
+</td>
+<td width="50%">
+
 **💰 ClearSpent**
 
 Agent-first finance app. Tell Kitna what happened, it proposes the action, nothing moves without your approval.
 
 **Tech**: React Native, Next.js, Supabase, Gemini AI, Vercel AI SDK
 
-[Site](https://clearspent.com) · [Web app](https://clearspent.zkidzdev.com)
+[Site](https://www.clearspent.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🦷 CrownOS**
+
+Multi-tenant dental practice management. Patient records, scheduling, billing, inventory, clinical charting, real-time chat, and an in-app AI assistant. RLS per clinic.
+
+**Tech**: Next.js, Supabase, Drizzle, Vercel AI SDK, TanStack Query, Zustand
+
+[Website](https://www.crownos.app/)
 
 </td>
 <td width="50%">
@@ -181,61 +212,13 @@ Real-time lead scoring with Claude, Slack alerts to closers, automated nurture f
 </td>
 <td width="50%">
 
-**💡 IdeaFlare**
+**🏈 FTBLRLife**
 
-Voice or text in, structured execution plan out. Summaries, feature breakdowns, tasks, risk assessments.
+Sports social platform. Networking, video, real-time messaging, and performance analytics for athletes, scouts, and coaches.
 
-**Tech**: React Native, Expo, Gemini AI, Supabase, Drizzle
+**Tech**: React Native, Firebase, Redux, GraphQL
 
-[Website](https://ideaflare.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏠 PropApp**
-
-Off-market property marketplace for Australia where agents compete to win your listing. Turborepo, AU-resident data (Sydney).
-
-**Tech**: Next.js 16, React 19, Supabase, Drizzle, Stripe, Sentry
-
-[Website](https://www.propapp.com.au/) · [Android](https://play.google.com/store/apps/details?id=au.com.propapp.app) · [iOS](https://apps.apple.com/au/app/propapp/id6475382641)
-
-</td>
-<td width="50%">
-
-**🏦 Brokerverse**
-
-White-label SaaS for Australian mortgage brokers. Per-broker subdomains, custom theming, block-based landing page editor.
-
-**Tech**: Next.js 16, React 19, Supabase, Drizzle, Stripe, Leaflet
-
-[Website](https://brokerverse.com.au/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🦷 CrownOS**
-
-Multi-tenant dental practice management. Patient records, scheduling, billing, inventory, clinical charting, real-time chat. RLS per clinic.
-
-**Tech**: Next.js, Supabase, Drizzle, TanStack Query, Zustand
-
-[Web app](https://crownos.zkidzdev.com)
-
-</td>
-<td width="50%">
-
-**🏘️ realestateprojects.au**
-
-Australian property platform across 5 products: listings site, agency portal, buyer app, agent portal, and a NestJS campaign API.
-
-**Tech**: Next.js, Vite, NestJS, Expo, Supabase, OpenAI, Google Maps
-
-[Website](https://realestateprojects.au) · [Agency portal](https://agency.realestateprojects.au)
+[Android](https://play.google.com/store/apps/details?id=com.footballer.app) · [iOS](https://apps.apple.com/ph/app/ftblrlife/id6444323230)
 
 </td>
 </tr>
@@ -253,6 +236,54 @@ Monthly photo books with print-ready PDF export. 50 concurrent image uploads, 50
 </td>
 <td width="50%">
 
+**🏘️ Domain Project Sales**
+
+Formerly realestateprojects.au. Australian property platform across 5 products: listings site, agency portal, buyer app, agent portal, and a NestJS campaign API.
+
+**Tech**: Next.js, Vite, NestJS, Expo, Supabase, Google Maps
+
+[Website](https://domainprojectsales.com.au/) · [Agency portal](https://agency.realestateprojects.au)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💡 IdeaFlare**
+
+Voice or text in, structured execution plan out. Summaries, feature breakdowns, tasks, risk assessments.
+
+**Tech**: React Native, Expo, Gemini AI, Supabase, Drizzle
+
+[Website](https://ideaflare.app)
+
+</td>
+<td width="50%">
+
+**🏦 Brokerverse**
+
+White-label SaaS for Australian mortgage brokers. Per-broker subdomains, custom theming, block-based landing page editor.
+
+**Tech**: Next.js 16, React 19, Supabase, Drizzle, Stripe, Leaflet
+
+[Website](https://brokerverse.com.au/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 PulseTrack**
+
+Project management with ticket tracking, time tracking, and billing in one loop. Turbo monorepo.
+
+**Tech**: Next.js 16, Supabase, Drizzle, Gemini AI, TanStack Query, Turborepo
+
+[Web app](https://pulsetrack.zkidzdev.com) · [Source](https://github.com/theangeloumali/PulseTrack)
+
+</td>
+<td width="50%">
+
 **🔐 The Last Will**
 
 Fully offline encrypted vault for wills, beneficiaries, and sensitive documents. Zero-knowledge, AES-256, biometric unlock.
@@ -266,6 +297,15 @@ Fully offline encrypted vault for wills, beneficiaries, and sensitive documents.
 <tr>
 <td width="50%">
 
+**🛒 AI Bot Marketplace**
+
+Pre-built AI bot templates across 376+ business niches. SMS and voice automation, Stripe checkout, GHL delivery.
+
+**Tech**: Next.js, Supabase, Stripe, GoHighLevel, Drizzle
+
+</td>
+<td width="50%">
+
 **🤝 Agency Partner Hub**
 
 Franchise control plane for AI automation agencies. Stripe Connect payouts, AI-generated audit decks, ROI calculator pages.
@@ -275,39 +315,28 @@ Franchise control plane for AI automation agencies. Stripe Connect payouts, AI-g
 [Web app](https://app.portal.aiagencylabs.io/)
 
 </td>
-<td width="50%">
-
-**🛒 AI Bot Marketplace**
-
-Pre-built AI bot templates across 376+ business niches. SMS and voice automation, Stripe checkout, GHL delivery.
-
-**Tech**: Next.js, Supabase, Stripe, GoHighLevel, Drizzle
-
-[Web app](https://marketplace.aiagencylabs.io/)
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-**📊 PulseTrack**
+**👀 ClaudeWatch** (open source)
 
-Project management with ticket tracking, time tracking, and billing in one loop. Turbo monorepo.
+macOS menu bar app that monitors running Claude Code sessions.
 
-**Tech**: Next.js 15, Supabase, Drizzle, TanStack Query, Turborepo
+**Tech**: TypeScript, macOS menu bar, Claude Code
 
-[Web app](https://pulsetrack.zkidzdev.com)
+[Source](https://github.com/theangeloumali/ClaudeWatch)
 
 </td>
 <td width="50%">
 
-**🏈 FTBLRLife**
+**✅ store-validator** (open source)
 
-Sports social platform. Networking, video, real-time messaging, and performance analytics for athletes, scouts, and coaches.
+npm CLI that checks Expo, Flutter, Capacitor, React Native and TWA apps for App Store and Play Store rejection risks before submission.
 
-**Tech**: React Native, Firebase, Redux, GraphQL
+**Tech**: TypeScript, Node.js, npm CLI
 
-[Android](https://play.google.com/store/apps/details?id=com.footballer.app) · [iOS](https://apps.apple.com/ph/app/ftblrlife/id6444323230)
+[Source](https://github.com/theangeloumali/zkidz-store-validator)
 
 </td>
 </tr>
@@ -324,7 +353,7 @@ Sports social platform. Networking, video, real-time messaging, and performance 
 | **Hallensteins**   | Men's fashion e-commerce with loyalty program, size guides, and push notifications. React Native, AWS Amplify, GraphQL.                                                | [Android](https://play.google.com/store/apps/details?id=com.hallensteins.customer.app) · [iOS](https://apps.apple.com/nz/app/hallensteins/id6453358386)                           |
 | **RedRat Fashion** | Fashion e-commerce with wishlists, size guides, and reviews. React Native, AWS Amplify, GraphQL.                                                                       | [Android](https://play.google.com/store/apps/details?id=nz.co.redrat.app) · [iOS](https://apps.apple.com/nz/app/red-rat/id1551890750)                                             |
 | **ShoreTrade**     | B2B marketplace for Australia's largest fishery market. Real-time trading and inventory. Also shipped the SFM Blue buyer and seller apps on the same platform.         | [Buyer Android](https://play.google.com/store/apps/details?id=com.shoretradeapp.buyer) · [Seller Android](https://play.google.com/store/apps/details?id=com.shoretradeapp.seller) |
-| **Urban.com.au**   | Real estate app with property search, map integration, and agent messaging. React Native, Firebase, Redux.                                                             | [Website](https://www.urban.com.au/)                                                                                                                                              |
+| **Urban.com.au**   | Real estate app with property search, map integration, and agent messaging. React Native, Firebase, Redux.                                                             | [Website](https://www.apartments.com.au/)                                                                                                                                         |
 | **Taply**          | White-label Shopify platform behind 300+ branded storefronts for 1,000+ businesses. Individual tenant apps have since been delisted. React Native, Shopify API, Redux. | Platform work                                                                                                                                                                     |
 
 </details>
@@ -337,15 +366,16 @@ Sports social platform. Networking, video, real-time messaging, and performance 
 
 <div align="center">
 
-| Metric                           | Figure             |
-| :------------------------------- | :----------------- |
-| White-label storefronts launched | 300+               |
-| Businesses served                | 1,000+             |
-| Monthly end users                | 300K               |
-| Production systems delivered     | 15+                |
-| Release cycle improvement        | 50 to 80% faster   |
-| Bundle size reduction (Adaca)    | 35%                |
-| Markets shipped to               | AU, NZ, US, CA, PH |
+| Metric                           | Figure                 |
+| :------------------------------- | :--------------------- |
+| White-label storefronts launched | 300+                   |
+| Businesses served                | 1,000+                 |
+| Monthly end users                | 300K                   |
+| Production systems delivered     | 15+                    |
+| Release cycle improvement        | 50 to 80% faster       |
+| Bundle size reduction (Adaca)    | 35%                    |
+| Companies worked with            | 10+                    |
+| Markets shipped to               | AU, NZ, SG, US, CA, PH |
 
 </div>
 
@@ -353,14 +383,10 @@ Sports social platform. Networking, video, real-time messaging, and performance 
 
 ## 📈 Stats
 
-### Streak and activity
+### Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=theangeloumali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theangeloumali&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
 </div>
 
 ### Profile summary
@@ -407,13 +433,13 @@ Bash                 101 hrs 32 mins       ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 📬 Get in touch
 
-Open to principal and staff engineering work, AI architecture, and selective client builds through ZKidz Dev — including fractional CTO engagements.
+Open to senior software engineering and AI engineering roles, and selective client builds through ZKidz Dev — including fractional CTO engagements.
 
 - **Email**: [angelo@theangeloumali.com](mailto:angelo@theangeloumali.com)
-- **LinkedIn**: [linkedin.com/in/christianangelo](https://linkedin.com/in/christianangelo)
+- **LinkedIn**: [linkedin.com/in/theangeloumali](https://www.linkedin.com/in/theangeloumali/)
 - **Portfolio**: [theangeloumali.com](https://theangeloumali.com)
 - **Company**: [zkidzdev.com](https://zkidzdev.com)
-
+- **Book a call**: [30 minutes on Calendly](https://calendly.com/angelo-zkidzdev/30min)
 
 ---
 
