@@ -470,15 +470,15 @@ ZKidz Dev LLC is my own consultancy. From 2020 to 2024 I ran it alongside the fu
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2022 - To: 13 October 2026
+From: 04 December 2022 - To: 14 October 2026
 
-Total Time: 4,342 hrs 3 mins
+Total Time: 4,361 hrs 48 mins
 
-TypeScript           2,747 hrs 52 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.28 %
-Markdown             358 hrs 43 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.26 %
-Other                250 hrs 53 mins       ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.78 %
-JSON                 231 hrs 58 mins       ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.34 %
-Bash                 105 hrs 29 mins       ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.43 %
+TypeScript           2,748 hrs 42 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.02 %
+Markdown             359 hrs 48 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.25 %
+Other                266 hrs 30 mins       ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.11 %
+JSON                 232 hrs 1 min         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.32 %
+Bash                 106 hrs 54 mins       ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.45 %
 ```
 
 <!--END_SECTION:waka-->
