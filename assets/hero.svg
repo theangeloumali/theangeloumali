@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" role="img" aria-labelledby="t d">
-  <title id="t">Christian Angelo Umali, Senior Software Engineer and AI Engineer</title>
+  <title id="t">Christian Angelo Umali, Lead Software Engineer and Senior AI Engineer</title>
   <desc id="d">Web platforms, mobile apps and agentic AI systems. 9+ years, six countries, 1,000+ businesses. Now building PropApp.</desc>
   <defs>
     <clipPath id="card"><rect width="840" height="300" rx="18" /></clipPath>
@@ -85,7 +85,7 @@
     </g>
 
     <!-- Copy -->
-    <text class="mono rise" x="56" y="92" font-size="17" letter-spacing="2" fill="#8ea9c4">SENIOR SOFTWARE ENGINEER &amp; AI ENGINEER</text>
+    <text class="mono rise" x="56" y="92" font-size="15" letter-spacing="1.2" fill="#8ea9c4">LEAD SOFTWARE ENGINEER &amp; SENIOR AI ENGINEER</text>
     <text class="sans rise r2" x="54" y="158" font-size="47" font-weight="700" letter-spacing="-1.2" fill="#ece7de">Christian Angelo Umali</text>
     <path class="underline" d="M56 182 H436" stroke="#d5b13a" stroke-width="4" stroke-linecap="round" fill="none" />
     <g class="sans" font-size="25" fill="#ece7de">

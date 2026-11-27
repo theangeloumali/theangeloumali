@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 460" width="420" height="460" role="img" aria-labelledby="t d">
   <title id="t">Career timeline, 2017 to now</title>
-  <desc id="d">ZKidz Dev LLC: Lead Software Engineer and AI Engineer from 2025 to now, Lead Software Engineer 2020 to 2025. Blackpepper, Senior Software Engineer, 2022 to 2024. Adaca, Senior Software Engineer, 2020 to 2022. Trends and Technologies, Full Stack Developer, 2017 to 2020.</desc>
+  <desc id="d">ZKidz Dev LLC: Lead Software Engineer and Senior AI Engineer from 2025 to now, Lead Software Engineer 2020 to 2025. Blackpepper, Senior Software Engineer, 2022 to 2024. Adaca, Senior Software Engineer, 2020 to 2022. Trends and Technologies, Software Engineer and Lead Developer, 2017 to 2020.</desc>
   <defs><clipPath id="card"><rect width="420" height="460" rx="16" /></clipPath></defs>
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
@@ -16,7 +16,7 @@
     <line x1="34" y1="48" x2="34" y2="388" stroke="#8ea9c4" stroke-opacity="0.35" stroke-width="2" />
     <g class="row" style="animation-delay: 0.00s"><circle class="ping" cx="34" cy="48" r="6" fill="#d5b13a" /><circle cx="34" cy="48" r="6" fill="#d5b13a" />
       <text class="mono" x="58" y="53" font-size="15" fill="#d5b13a">2025 – now</text>
-      <text class="sans" x="58" y="78" font-size="19" font-weight="600" fill="#ece7de">Lead Software Engineer &amp; AI Engineer</text>
+      <text class="sans" x="58" y="78" font-size="19" font-weight="600" fill="#ece7de">Lead SWE &amp; Senior AI Engineer</text>
       <text class="sans" x="58" y="102" font-size="16" fill="#8ea9c4">ZKidz Dev LLC</text></g>
     <g class="row" style="animation-delay: 0.15s"><circle cx="34" cy="132" r="5" fill="#0c1117" stroke="#8ea9c4" stroke-width="2" />
       <text class="mono" x="58" y="137" font-size="15" fill="#8ea9c4">2020 – 2025</text>
@@ -32,7 +32,7 @@
       <text class="sans" x="58" y="354" font-size="16" fill="#8ea9c4">Adaca · Sydney</text></g>
     <g class="row" style="animation-delay: 0.60s"><circle cx="34" cy="384" r="5" fill="#0c1117" stroke="#8ea9c4" stroke-width="2" />
       <text class="mono" x="58" y="389" font-size="15" fill="#8ea9c4">2017 – 2020</text>
-      <text class="sans" x="58" y="414" font-size="19" font-weight="600" fill="#ece7de">Full Stack Developer</text>
+      <text class="sans" x="58" y="414" font-size="19" font-weight="600" fill="#ece7de">Software Engineer &amp; Lead Developer</text>
       <text class="sans" x="58" y="438" font-size="16" fill="#8ea9c4">Trends &amp; Technologies · Makati</text></g>
 
   </g>

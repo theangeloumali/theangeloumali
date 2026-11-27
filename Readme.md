@@ -1,9 +1,9 @@
 # Hey, I'm Angelo 👋
 
-<a href="https://theangeloumali.com"><picture><source media="(max-width: 600px)" srcset="./assets/hero-narrow.svg" /><img src="./assets/hero.svg" width="100%" alt="Christian Angelo Umali, Senior Software Engineer and AI Engineer. Web platforms, mobile apps and agentic AI systems." /></picture></a>
+<a href="https://theangeloumali.com"><picture><source media="(max-width: 600px)" srcset="./assets/hero-narrow.svg" /><img src="./assets/hero.svg" width="100%" alt="Christian Angelo Umali, Lead Software Engineer and Senior AI Engineer. Web platforms, mobile apps and agentic AI systems." /></picture></a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=1000&color=D5B13A&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Storefronts+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="Senior Software Engineer and AI Engineer. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=1000&color=D5B13A&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=Agentic+AI+%7C+Claude+%7C+MCP+%7C+Multi-Agent+Systems;React+Native+%7C+Next.js+%7C+TypeScript+%7C+Supabase;300%2B+Storefronts+%7C+1%2C000%2B+Businesses+%7C+300K+Users" alt="Lead Software Engineer and Senior AI Engineer. Agentic AI, Claude, MCP, multi-agent systems. React Native, Next.js, TypeScript, Supabase." />
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="#get-in-touch">Contact</a>
 </p>
 
-**Senior Software Engineer & AI Engineer.** I've spent 9+ years shipping production web and mobile software for teams in six countries, including a white-label commerce platform used by 1,000+ businesses. I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been building AI into products since 2025, and in 2026 it became most of my work: agentic systems for clients, with my own delivery running through AI agents I direct like a dev team, TDD and automated review enforced on every task.
+**Lead Software Engineer & Senior AI Engineer.** I've spent 9+ years shipping production web and mobile software for teams in six countries, including a white-label commerce platform used by 1,000+ businesses. I founded ZKidz Dev LLC in 2020 and still write the code on the builds that matter. I've been building AI into products since 2025, and in 2026 it became most of my work: agentic systems for clients, with my own delivery running through AI agents I direct like a dev team, TDD and automated review enforced on every task.
 
 Based in Manila, Philippines, delivering for teams in Australia, New Zealand, Singapore, the United States, Canada and the Philippines.
 
@@ -35,11 +35,11 @@ Based in Manila, Philippines, delivering for teams in Australia, New Zealand, Si
 
 | At a glance |                                                                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Role        | Senior Software Engineer & AI Engineer. Current position: Lead Software Engineer & AI Engineer at ZKidz Dev LLC, my own consultancy |
+| Role        | Lead Software Engineer & Senior AI Engineer at ZKidz Dev LLC, my own consultancy; AI Consultant — Enterprise Fintech since April 2026 |
 | Name        | Christian Angelo Umali (I go by Angelo)                                                                                             |
 | Education   | Bachelor of Information Technology, Centro Escolar University, 2013 - 2017                                                          |
 | Experience  | 9+ years, in production since 2017                                                                                                  |
-| Now         | Building [PropApp](https://www.propapp.com.au/); consulting on agentic AI for a Philippine lending institution                      |
+| Now         | Building [PropApp](https://www.propapp.com.au/); running an [AI Enablement Program](https://theangeloumali.com/ai-enablement) for an enterprise fintech and IT software company |
 | Based in    | Manila, Philippines (UTC+8), working remotely                                                                                       |
 | Works with  | Teams in Australia, New Zealand, Singapore, the United States, Canada and the Philippines                                           |
 | Core stack  | TypeScript, React, Next.js, React Native, Expo, Node.js, NestJS, Supabase, PostgreSQL                                               |
@@ -53,7 +53,7 @@ Based in Manila, Philippines, delivering for teams in Australia, New Zealand, Si
 
 <a href="https://www.propapp.com.au/"><picture><source media="(max-width: 600px)" srcset="./assets/now-narrow.svg" /><img src="./assets/now.svg" width="100%" alt="Now building: PropApp, an off-market property marketplace in Australia. Web platform, iOS and Android apps, AI features." /></picture></a>
 
-Right now my main build is [PropApp](https://www.propapp.com.au/), an off-market property marketplace in Australia, where I work across the web platform, the iOS and Android apps, and its AI features. I'm also consulting for one of the largest lending institutions in the Philippines, building agentic AI software with their engineers and standing up their AI development practice.
+Right now my main build is [PropApp](https://www.propapp.com.au/), an off-market property marketplace in Australia, where I work across the web platform, the iOS and Android apps, and its AI features. Since April I've also run an [AI Enablement Program](https://theangeloumali.com/ai-enablement) for an enterprise fintech and IT software company, taking its teams from manual work to agent crews they own, with a person approving anything that ships.
 
 <img src="./assets/sec-02.svg" width="100%" alt="" />
 
@@ -347,21 +347,22 @@ I run an agent-orchestration framework I built on top of Claude Code. It routes 
 
 | Period              | Role                                 | Company                                |
 | ------------------- | ------------------------------------ | -------------------------------------- |
-| Jan 2025 - Present  | Lead Software Engineer & AI Engineer | **ZKidz Dev LLC** · Remote             |
+| Apr 2026 - Present  | AI Consultant — Enterprise Fintech   | **ZKidz Dev LLC** · Manila (Hybrid)    |
+| Jan 2025 - Present  | Lead Software Engineer & Senior AI Engineer | **ZKidz Dev LLC** · Remote      |
 | Jul 2020 - Jan 2025 | Lead Software Engineer               | **ZKidz Dev LLC** · Remote             |
 | Aug 2022 - Dec 2024 | Senior Software Engineer             | **Blackpepper** · Auckland, NZ         |
 | Aug 2020 - Aug 2022 | Senior Software Engineer             | **Adaca** · Sydney, AU                 |
-| May 2017 - Sep 2020 | Full Stack Developer                 | **Trends & Technologies** · Makati, PH |
+| May 2017 - Sep 2020 | Software Engineer & Lead Developer   | **Trends & Technologies** · Makati, PH |
 
 ZKidz Dev LLC is my own consultancy. From 2020 to 2024 I ran it alongside the full-time roles at Adaca and Blackpepper, and it has been my sole engagement since January 2025.
 
 <details>
-<summary><b>What I did in each role</b> (PropApp, AI enablement, Taply, Blackpepper and more)</summary>
+<summary><b>What I did in each role</b> (PropApp, AI Enablement Program, Taply, Blackpepper and more)</summary>
 
 <br />
 
 - **PropApp.** My current main build: the Next.js web platform, the vendor and agent mobile apps on React Native and Expo, and AI features including a buyer assistant and a brief builder.
-- **AI enablement.** Building with AI since 2025, scaled up sharply in 2026. Since March 2026 I've been consulting for a Philippine lending institution: building agentic AI software with their engineers, introducing pull-request review and QA automation with end-to-end tests, and running on-site workshops.
+- **AI Consultant — Enterprise Fintech.** Building with AI since 2025, scaled up sharply in 2026. Since April 2026 I've run the [AI Enablement Program](https://theangeloumali.com/ai-enablement) for an enterprise fintech and IT software company: eight IT teams so far, with Finance and HR next. Introduced pull requests, code review and end-to-end testing with video evidence, and ran on-site workshops. One data team's three-agent crew built a data vault in 12 working days: 58 entities, about 1,680 automated tests and 94 recorded decisions.
 - **ZKidz Dev.** Set the engineering standards every client engagement runs on, and own architecture and trade-off calls across the portfolio. Clients include PropApp, My Business Coach, FTBLRLife, PICkle Book, Domain Project Sales, Taply, Urban, and OutStaffer.
 - **Taply** (Canada, ZKidz Dev client). Architected a white-label e-commerce platform serving 1,000+ businesses across 300+ branded storefronts, at 300K monthly end users. Drove 23% user growth, cut support tickets 30%, and halved build time with an automated Fastlane pipeline.
 - **Domain Project Sales** (Australia, ZKidz Dev client, formerly realestateprojects.au). Delivered five products: a public listings site, an agency and developer portal, a buyer app, an agent app, and a NestJS campaign API with Facebook and Google Ads integrations.
@@ -373,6 +374,20 @@ ZKidz Dev LLC is my own consultancy. From 2020 to 2024 I ran it alongside the fu
 - **Trends & Technologies** (Philippines, full-time). Led a cross-functional team of five across parallel client engagements, delivering 7+ production projects.
 
 </details>
+
+### Certifications
+
+| Certification | Issuer | Issued |
+| ------------- | ------ | ------ |
+| [AI Fluency for Builders](https://verify.skilljar.com/c/h9kimv9foaf7) | Anthropic | Jul 2026 |
+| [Claude Code in Action](https://verify.skilljar.com/c/w684uyffrjpd) | Anthropic | Jul 2026 |
+| [Claude 101](https://verify.skilljar.com/c/im53ak9d2p8h) | Anthropic | Jul 2026 |
+| [Claude Code 101](https://verify.skilljar.com/c/cjvrukrr5x25) | Anthropic | Jul 2026 |
+| Google Firebase Workshop | Google Developer Groups Manila | Mar 2021 |
+| Fullstack C# ASP.NET MVC + Angularjs Development | Ground Gurus | Aug 2017 |
+| VueJS Web + Realtime Database + Mobile | Ground Gurus | Jul 2017 |
+| Android Building Blocks Using Java Native Development | Ground Gurus | Jul 2017 |
+| Building Real-time Applications with Angular and SignalR | Ground Gurus | Jul 2017 |
 
 <img src="./assets/sec-06.svg" width="100%" alt="" />
 
